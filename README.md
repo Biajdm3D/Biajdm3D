@@ -1,16 +1,18 @@
-## Hi there 👋
+# Boas vindas ao meu perfil 🌱✨
 
-<!--
-**Biajdm3D/Biajdm3D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Beatriz
+Estou estudando na [alura](https://www.alura.com.br/)
+Estou me desenvolvendo na linguagem java Script
+Utilizo este espaço para organização e compartilhamento dos meus projetos desenvlovidos 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Você pode entrar em contato comigo ✨
+
+
+
+00001073424431sp@al.educacao.sp.gov.br
+
+@biaa_xt._
+
+
