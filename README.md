@@ -15,4 +15,4 @@ Utilizo este espaço para organização e compartilhamento dos meus projetos des
 
 @biaa_xt._
 
-
+![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2V4dWpqZWc2bzFpdDFxeWRod2QxeXByczlvd2MwMmgzOG9ka3N6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EAOTD2L0qyvhm/giphy.webp)
